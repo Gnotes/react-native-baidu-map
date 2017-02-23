@@ -187,7 +187,7 @@ private void initCloudListener(){
 
 ```
 platform :ios,'10.2'
-target "wabg" do
+target "Project_Name" do
 pod 'BaiduMapKit','~> 3.2.1'
 end
 ```
